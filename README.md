@@ -8,6 +8,7 @@ Este é um repositório contendo os código de todos os desafios propostos no Bo
 ## Índice de desafios
 
 - [01 - Conceitos do Node.js](01-conceitos-nodejs)
+- [02 - Conceitos do ReactJS](02-conceitos-reactjs)
 
 ## :memo: Licença
 
